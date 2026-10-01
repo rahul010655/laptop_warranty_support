@@ -1,0 +1,61 @@
+text,intent
+hi,greeting
+hello,greeting
+hey there,greeting
+good morning,greeting
+hi i need some help,greeting
+hello is anyone there,greeting
+hey can you help me,greeting
+good afternoon,greeting
+is my laptop under warranty,warranty_status
+how do i check my warranty status,warranty_status
+is this still covered under warranty,warranty_status
+what is the warranty status of my device,warranty_status
+can you tell me if my laptop warranty is active,warranty_status
+has my warranty expired,warranty_status
+when does my warranty end,warranty_status
+i want to check warranty validity,warranty_status
+is my dell laptop still under warranty,warranty_status
+please confirm if my warranty is valid,warranty_status
+how many years of warranty do i have left,warranty_status
+my screen cracked,damage_report
+i spilled water on my laptop,damage_report
+my laptop fell and the screen broke,damage_report
+the keyboard stopped working after it dropped,damage_report
+there is a dent on my laptop body,damage_report
+my laptop got damaged yesterday,damage_report
+liquid spilled on the keyboard,damage_report
+the display is broken,damage_report
+screen shattered after it fell down,damage_report
+my laptop battery swelled up,damage_report
+accidentally dropped my laptop and now it wont turn on,damage_report
+i need a repair,repair_request
+how do i get my laptop fixed,repair_request
+i want to send my laptop for servicing,repair_request
+where is the nearest service center,repair_request
+can you help me raise a repair ticket,repair_request
+i need to fix my laptop,repair_request
+how do i book a repair appointment,repair_request
+please arrange a technician visit,repair_request
+i want to send it in for repair,repair_request
+what documents do i need for repair,repair_request
+what does my warranty cover,coverage_info
+is accidental damage covered,coverage_info
+what is excluded from the warranty,coverage_info
+does warranty cover liquid damage,coverage_info
+what parts are covered under warranty,coverage_info
+is battery replacement covered,coverage_info
+does the warranty include screen damage,coverage_info
+what is not covered under standard warranty,coverage_info
+who won the cricket match yesterday,out_of_scope
+what is the capital of france,out_of_scope
+can you write a python script for me,out_of_scope
+tell me a joke,out_of_scope
+what do you think about the election results,out_of_scope
+solve this math equation for me,out_of_scope
+suggest a good movie to watch,out_of_scope
+what is your opinion on religion,out_of_scope
+give me legal advice for my case,out_of_scope
+what medicine should i take for a headache,out_of_scope
+how is the stock market doing today,out_of_scope
+explain the history of rome,out_of_scope
